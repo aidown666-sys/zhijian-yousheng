@@ -1,0 +1,7 @@
+{
+  "relay_url": "https://YOUR_DOMAIN/polyv/poll.php",
+  "consumer_token": "REPLACE_WITH_AT_LEAST_32_RANDOM_CHARACTERS",
+  "local_url": "http://127.0.0.1:8877/api/captions",
+  "poll_seconds": 1,
+  "max_age_seconds": 15
+}

@@ -1,0 +1,55 @@
+{
+  "source": "C:\\Users\\admin\\Desktop\\zhijianyousheng\\assets\\3d\\custom-v2\\reference-sheet.png",
+  "crops": {
+    "front": [
+      4,
+      45,
+      328,
+      570
+    ],
+    "left": [
+      328,
+      45,
+      492,
+      570
+    ],
+    "back": [
+      478,
+      45,
+      792,
+      570
+    ],
+    "right": [
+      795,
+      45,
+      991,
+      570
+    ],
+    "face-front": [
+      1005,
+      47,
+      1177,
+      310
+    ],
+    "face-left": [
+      1005,
+      345,
+      1177,
+      550
+    ],
+    "face-back": [
+      1356,
+      345,
+      1528,
+      550
+    ]
+  },
+  "generated_model": false,
+  "uploaded": false,
+  "notes": [
+    "Original supplied image is an illustrated/generated reference sheet, not a calibrated camera capture.",
+    "Front/back arm pose differs from profile pose.",
+    "Back crop may include neighbouring panel fragments near feet.",
+    "Do not treat a generated textured mesh as animation-ready until fingers, topology and skinning are checked."
+  ]
+}

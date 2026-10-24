@@ -1,0 +1,62 @@
+{
+  "bones": 70,
+  "meshes": {
+    "node_0": {
+      "vertices": 363201,
+      "unweighted": 0,
+      "invalid": 0
+    },
+    "LeftCleanHand": {
+      "vertices": 817,
+      "unweighted": 0,
+      "invalid": 0
+    },
+    "RightCleanHand": {
+      "vertices": 817,
+      "unweighted": 0,
+      "invalid": 0
+    }
+  },
+  "poses": {
+    "open": {
+      "LeftCleanHand": {
+        "stretch_p99": 1.0,
+        "edges_over_3x": 0
+      },
+      "RightCleanHand": {
+        "stretch_p99": 1.0,
+        "edges_over_3x": 0
+      }
+    },
+    "fist": {
+      "LeftCleanHand": {
+        "stretch_p99": 1.833,
+        "edges_over_3x": 0
+      },
+      "RightCleanHand": {
+        "stretch_p99": 1.485,
+        "edges_over_3x": 0
+      }
+    },
+    "point": {
+      "LeftCleanHand": {
+        "stretch_p99": 1.794,
+        "edges_over_3x": 0
+      },
+      "RightCleanHand": {
+        "stretch_p99": 1.598,
+        "edges_over_3x": 0
+      }
+    },
+    "wrist": {
+      "LeftCleanHand": {
+        "stretch_p99": 1.164,
+        "edges_over_3x": 0
+      },
+      "RightCleanHand": {
+        "stretch_p99": 1.238,
+        "edges_over_3x": 0
+      }
+    }
+  }
+}

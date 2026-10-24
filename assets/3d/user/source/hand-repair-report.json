@@ -1,0 +1,132 @@
+{
+  "source": "C:\\Users\\admin\\Desktop\\3D\\SignHuman_Final.fbx",
+  "before": {
+    "open": {
+      "edge_stretch_p99": 1.0,
+      "edges_over_3x": 0,
+      "max_stretch": 1.0
+    },
+    "fist": {
+      "edge_stretch_p99": 3.666,
+      "edges_over_3x": 2696,
+      "max_stretch": 42.71
+    },
+    "point": {
+      "edge_stretch_p99": 4.21,
+      "edges_over_3x": 3070,
+      "max_stretch": 61.62
+    },
+    "pinch": {
+      "edge_stretch_p99": 2.39,
+      "edges_over_3x": 1646,
+      "max_stretch": 46.69
+    },
+    "wrist": {
+      "edge_stretch_p99": 4.664,
+      "edges_over_3x": 2592,
+      "max_stretch": 110.07
+    }
+  },
+  "after": {
+    "open": {
+      "edge_stretch_p99": 1.0,
+      "edges_over_3x": 0,
+      "max_stretch": 1.0
+    },
+    "fist": {
+      "edge_stretch_p99": 1.532,
+      "edges_over_3x": 60,
+      "max_stretch": 4.99
+    },
+    "point": {
+      "edge_stretch_p99": 2.101,
+      "edges_over_3x": 1246,
+      "max_stretch": 19.33
+    },
+    "pinch": {
+      "edge_stretch_p99": 1.565,
+      "edges_over_3x": 652,
+      "max_stretch": 14.4
+    },
+    "wrist": {
+      "edge_stretch_p99": 1.338,
+      "edges_over_3x": 8,
+      "max_stretch": 3.59
+    }
+  },
+  "repairs": {
+    "Left": {
+      "old_wrist": [
+        0.5003032684326172,
+        2.57817305282515e-08,
+        0.9375754594802856
+      ],
+      "new_wrist": [
+        0.4749596416950226,
+        -0.07130075246095657,
+        0.9474399089813232
+      ],
+      "wrist_shift_m": 0.07631125129878157,
+      "centerline": {
+        "Thumb": {
+          "finite_vertices": 35401,
+          "centerline_used": true
+        },
+        "Index": {
+          "finite_vertices": 35401,
+          "centerline_used": true
+        },
+        "Middle": {
+          "finite_vertices": 35401,
+          "centerline_used": false
+        },
+        "Ring": {
+          "finite_vertices": 35401,
+          "centerline_used": true
+        },
+        "Pinky": {
+          "finite_vertices": 35401,
+          "centerline_used": true
+        }
+      },
+      "reweighted_vertices": 35401
+    },
+    "Right": {
+      "old_wrist": [
+        -0.5003032684326172,
+        2.57817305282515e-08,
+        0.9375754594802856
+      ],
+      "new_wrist": [
+        -0.4742942154407501,
+        -0.07154686748981476,
+        0.9482901096343994
+      ],
+      "wrist_shift_m": 0.07687803190794941,
+      "centerline": {
+        "Thumb": {
+          "finite_vertices": 35376,
+          "centerline_used": true
+        },
+        "Index": {
+          "finite_vertices": 35376,
+          "centerline_used": true
+        },
+        "Middle": {
+          "finite_vertices": 35376,
+          "centerline_used": false
+        },
+        "Ring": {
+          "finite_vertices": 35376,
+          "centerline_used": true
+        },
+        "Pinky": {
+          "finite_vertices": 35376,
+          "centerline_used": true
+        }
+      },
+      "reweighted_vertices": 35376
+    },
+    "other_unweighted": 736
+  }
+}

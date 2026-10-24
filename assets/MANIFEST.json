@@ -1,0 +1,174 @@
+{
+  "files": [
+    {
+      "path": "assets/3d/custom/CustomAvatar_BaseColor.png",
+      "bytes": 2734521,
+      "sha256": "894fa2d4626b2c7c780480dc0d2e57a176cb96276e073ccf5a6571a50cd7295c"
+    },
+    {
+      "path": "assets/3d/custom/reference-sheet.png",
+      "bytes": 2267902,
+      "sha256": "ad88f10f774e41a58bbb4fa7e2d43d2b0eb8a75062523b35dc8bfc6d2bcfdaae"
+    },
+    {
+      "path": "assets/3d/custom/ReferenceWoman_Prototype.blend",
+      "bytes": 9729186,
+      "sha256": "f69b0c027aa585eb32f55ad48eb40813897f1b5e3bf51a23c6f0e68ae928c00b"
+    },
+    {
+      "path": "assets/3d/custom/ReferenceWoman_Prototype.fbx",
+      "bytes": 12070092,
+      "sha256": "45498b107af4664703329e1c2563c80cb7437486e1d143c76fa2a9dac1719ad5"
+    },
+    {
+      "path": "assets/3d/custom-v2/CustomAvatar_BaseColor.png",
+      "bytes": 2730783,
+      "sha256": "6d57542c20a3bf7e061cd4190c46d15aaee41a114a2199145e029d6523f7fbb2"
+    },
+    {
+      "path": "assets/3d/custom-v2/reference-sheet.png",
+      "bytes": 2267902,
+      "sha256": "ad88f10f774e41a58bbb4fa7e2d43d2b0eb8a75062523b35dc8bfc6d2bcfdaae"
+    },
+    {
+      "path": "assets/3d/custom-v2/ReferenceWoman_Aligned.blend",
+      "bytes": 10157746,
+      "sha256": "639dcf12cc0245cc56fdca1890e3ee3370cad884cbf8b0f348feebad0dc6075a"
+    },
+    {
+      "path": "assets/3d/custom-v2/ReferenceWoman_Aligned.fbx",
+      "bytes": 15576012,
+      "sha256": "15125a5c33f15dec462bffab74673b059c96f31c683d980411f328fa282c0c1a"
+    },
+    {
+      "path": "assets/3d/custom-v3/CustomAvatar_BaseColor.png",
+      "bytes": 2730783,
+      "sha256": "6d57542c20a3bf7e061cd4190c46d15aaee41a114a2199145e029d6523f7fbb2"
+    },
+    {
+      "path": "assets/3d/custom-v3/ReferenceWoman_LocalRefined.blend",
+      "bytes": 10426992,
+      "sha256": "4d521e23772c8f5a729b3e96e9bf8e623a3f93e887ec8f9b0dad91a14b925f84"
+    },
+    {
+      "path": "assets/3d/custom-v3/ReferenceWoman_LocalRefined.fbx",
+      "bytes": 17164572,
+      "sha256": "66fda29cbe99b8e0546d68de10e98448533c79e62ab3ecb836da2f9cfc3e92ef"
+    },
+    {
+      "path": "assets/3d/high-fidelity-inputs/back.png",
+      "bytes": 167377,
+      "sha256": "528147211f85e826837753828904160f112a0ca069768ce90de03e3ffdf80484"
+    },
+    {
+      "path": "assets/3d/high-fidelity-inputs/face-back.png",
+      "bytes": 52472,
+      "sha256": "db04ad254f900557193d6a273eb14acafda5f021d483a65cbaf6993487622982"
+    },
+    {
+      "path": "assets/3d/high-fidelity-inputs/face-front.png",
+      "bytes": 66832,
+      "sha256": "48cf3bd963a3ada59eea101bfc7a3c1cd4bcc05dc4e7c464b6d5507a5b665213"
+    },
+    {
+      "path": "assets/3d/high-fidelity-inputs/face-left.png",
+      "bytes": 52948,
+      "sha256": "b5be24238e797f55667ea76d3a1fbb57aba66b6f7c7243a9f7ef6d4564d3da68"
+    },
+    {
+      "path": "assets/3d/high-fidelity-inputs/front.png",
+      "bytes": 172705,
+      "sha256": "d066a8b5b15087427d1d50141b3bd912bf993905a5391ab32da1457c4b0f878c"
+    },
+    {
+      "path": "assets/3d/high-fidelity-inputs/input-review.png",
+      "bytes": 564842,
+      "sha256": "f7df71f0fea138ac862e7a62b9936a93125d0ec6fb0be1b44b4d8ef06dc5cc34"
+    },
+    {
+      "path": "assets/3d/high-fidelity-inputs/left.png",
+      "bytes": 94345,
+      "sha256": "9f5941ca4a64d9a8d58cfbe93a826f816ac843076a88e0f50c14f66cbab2e433"
+    },
+    {
+      "path": "assets/3d/high-fidelity-inputs/right.png",
+      "bytes": 107025,
+      "sha256": "6ef17932660a61d80435d7e7eccf50c54c85a651df0f3274030ea43f3e63300a"
+    },
+    {
+      "path": "assets/3d/sample.vrm",
+      "bytes": 10776032,
+      "sha256": "12c2b97e95e700783a6a550dc0eee2d7880aeedccef9ae67bc4c5a2f0f2631a2"
+    },
+    {
+      "path": "assets/3d/user/SignHuman_CleanHands.glb",
+      "bytes": 45532948,
+      "sha256": "4d22eea67d8f5780810eb10fc220b247e00b8ea6ac308597c113ab2c5e40c529"
+    },
+    {
+      "path": "assets/3d/user/SignHuman_Final.glb",
+      "bytes": 48749220,
+      "sha256": "355d7cb70a24b88ad01a43f4a5a178bed0a352dbe5d51aaeb19954de3881658a"
+    },
+    {
+      "path": "assets/3d/user/SignHuman_HandsOptimized.glb",
+      "bytes": 48750084,
+      "sha256": "bff0ffc045398c160d17374bdb258342a32632b978912c33148e42e542a92649"
+    },
+    {
+      "path": "assets/3d/user/source/SignHuman_CleanHands.blend",
+      "bytes": 64729133,
+      "sha256": "cdaae092092a77391b7af1edcee80aea8759fe5646b31c16fe31096693ac42c8"
+    },
+    {
+      "path": "assets/3d/user/source/SignHuman_CleanHands.fbx",
+      "bytes": 66865820,
+      "sha256": "abf4cb810943a7d78447e133face880f5cb8caf81a79122b95eedccab761ce40"
+    },
+    {
+      "path": "assets/3d/user/source/SignHuman_Final.fbx",
+      "bytes": 70261468,
+      "sha256": "f585faa73d79c4b6aaa791d7d57f842a19d7cc3a1b05da52161700966ace2274"
+    },
+    {
+      "path": "assets/3d/user/source/SignHuman_HandsOptimized.blend",
+      "bytes": 66400648,
+      "sha256": "ee1f461fb3a41846b2ed89196192e36e6d099b6402e82f6cdda2e92213e21574"
+    },
+    {
+      "path": "assets/3d/user/source/SignHuman_HandsOptimized.fbx",
+      "bytes": 70366748,
+      "sha256": "aae389f59bca3322e464825d6cc5838228987001087168249f147262dcdf6bcc"
+    },
+    {
+      "path": "assets/3d/valid/Asian_F_1_Busi.fbx",
+      "bytes": 5839548,
+      "sha256": "f20b69e02624420fa4c8ab7389dafe2d5984051ccddf57746231a4f7aa7ef3b4"
+    },
+    {
+      "path": "assets/3d/valid/Asian_F_2_Casual.fbx",
+      "bytes": 10969100,
+      "sha256": "2a1d5b1f78d676f444e7e400da9af940776e2dc30b04d22ca5c7b146ddb3b7fe"
+    },
+    {
+      "path": "assets/3d/valid/Asian_M_1_Busi.fbx",
+      "bytes": 6722156,
+      "sha256": "cade02847adb6b332ba8a9810679c5440d50386c6aeb727a4d8e1a36064317f8"
+    },
+    {
+      "path": "assets/3d/valid/Asian_M_2_Casual.fbx",
+      "bytes": 7108556,
+      "sha256": "af23cd75d2a1cea049fdb8ac2d8b60fe988e679f0b32b60433f5e9a5be2bfbea"
+    },
+    {
+      "path": "data/lmdb/dev/CSL-Daily_reopt_dev.lmdb/data.mdb",
+      "bytes": 200536064,
+      "sha256": "c01bded1a737ba0405d7deedd13de3c6d8173584daadc47682b83449b93bd6d5"
+    },
+    {
+      "path": "data/sign_dictionary/csl_iso.dev",
+      "bytes": 552999,
+      "sha256": "93ba7e1757ef83a65878c3371ec340099854bd87ea2c4046e327538db1378ec5"
+    }
+  ]
+}

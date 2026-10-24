@@ -1,0 +1,30 @@
+{
+  "revision": "c76d2547b5b464415283169d18dffb16bb584eee",
+  "source": "https://github.com/google/valid-avatar-library",
+  "files": [
+    {
+      "name": "Asian_F_1_Busi",
+      "url": "https://raw.githubusercontent.com/google/valid-avatar-library/c76d2547b5b464415283169d18dffb16bb584eee/Avatars/Asian/Asian_F_1_Busi.fbx",
+      "size": 5839548,
+      "sha256": "f20b69e02624420fa4c8ab7389dafe2d5984051ccddf57746231a4f7aa7ef3b4"
+    },
+    {
+      "name": "Asian_F_2_Casual",
+      "url": "https://raw.githubusercontent.com/google/valid-avatar-library/c76d2547b5b464415283169d18dffb16bb584eee/Avatars/Asian/Asian_F_2_Casual.fbx",
+      "size": 10969100,
+      "sha256": "2a1d5b1f78d676f444e7e400da9af940776e2dc30b04d22ca5c7b146ddb3b7fe"
+    },
+    {
+      "name": "Asian_M_1_Busi",
+      "url": "https://raw.githubusercontent.com/google/valid-avatar-library/c76d2547b5b464415283169d18dffb16bb584eee/Avatars/Asian/Asian_M_1_Busi.fbx",
+      "size": 6722156,
+      "sha256": "cade02847adb6b332ba8a9810679c5440d50386c6aeb727a4d8e1a36064317f8"
+    },
+    {
+      "name": "Asian_M_2_Casual",
+      "url": "https://raw.githubusercontent.com/google/valid-avatar-library/c76d2547b5b464415283169d18dffb16bb584eee/Avatars/Asian/Asian_M_2_Casual.fbx",
+      "size": 7108556,
+      "sha256": "af23cd75d2a1cea049fdb8ac2d8b60fe988e679f0b32b60433f5e9a5be2bfbea"
+    }
+  ]
+}

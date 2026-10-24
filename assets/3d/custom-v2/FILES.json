@@ -1,0 +1,18 @@
+{
+  "CustomAvatar_BaseColor.png": {
+    "size": 2730783,
+    "sha256": "6d57542c20a3bf7e061cd4190c46d15aaee41a114a2199145e029d6523f7fbb2"
+  },
+  "reference-sheet.png": {
+    "size": 2267902,
+    "sha256": "ad88f10f774e41a58bbb4fa7e2d43d2b0eb8a75062523b35dc8bfc6d2bcfdaae"
+  },
+  "ReferenceWoman_Aligned.blend": {
+    "size": 10157746,
+    "sha256": "639dcf12cc0245cc56fdca1890e3ee3370cad884cbf8b0f348feebad0dc6075a"
+  },
+  "ReferenceWoman_Aligned.fbx": {
+    "size": 15576012,
+    "sha256": "15125a5c33f15dec462bffab74673b059c96f31c683d980411f328fa282c0c1a"
+  }
+}

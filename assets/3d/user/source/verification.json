@@ -1,0 +1,8 @@
+{
+  "fbx_roundtrip": "passed",
+  "bones": 70,
+  "vertices": 399730,
+  "invalid_weights": 0,
+  "unweighted": 0,
+  "finger_layout": "3 weighted joints plus unweighted end; FBX import may reset use_deform flags"
+}
