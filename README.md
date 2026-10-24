@@ -4,6 +4,49 @@
 
 本地 3D 骨骼数字人实验项目：接收输入文本或保利威直播字幕，检索手语动作并驱动人物，再由 OBS 或保利威客户端采集输出窗口。运行无需 PyTorch、CUDA 或云端照片渲染。
 
+## 项目效果
+
+将手语数字人作为独立窗口叠加到直播画面中，观众可以同时观看主画面、字幕和人物动作。以下图片来自项目讲解中的历史演示，界面及动作表现可能与当前代码版本不同。
+
+![保利威客户端采集手语数字人窗口并叠加到直播画面](docs/images/live-composition.jpg)
+
+### 文本驱动与人物切换
+
+在控制页输入文本、选择人物并发送定稿字幕。已有整句优先匹配，未收录句子尝试拼接词动作；未匹配部分会提示缺词。
+
+| 写实女性人物 | 动漫女性人物 |
+| --- | --- |
+| ![写实女性数字人控制台演示截图](docs/images/console-realistic.png) | ![动漫女性数字人控制台演示截图](docs/images/console-anime.png) |
+
+两种形象共用字幕接入与动作检索流程。人物骨轴、静止姿态和蒙皮权重不同，需要分别校准动作重定向。
+
+### 当前流程
+
+```mermaid
+flowchart LR
+    A[手动输入文本] --> C[本机字幕接口]
+    B[保利威观看页中文定稿] --> C
+    C --> D[整句检索 / 词动作拼接]
+    D --> E[3D 骨骼驱动]
+    E --> F[独立输出窗口]
+    F --> G[OBS / 保利威客户端采集]
+```
+
+### 模型与设计参考
+
+下图为导入人物模型的预览，工程保留 FBX、Blender 源文件及运行所需的 GLB。
+
+<img src="docs/images/model-preview.jpg" alt="商务女性人物模型正面预览" width="800">
+
+<details>
+<summary>查看多角度与 A-Pose 设计参考</summary>
+
+下图属于人物设计和建模参考，展示目标造型、服装与手部细节；当前实现的效果见上方运行截图。
+
+![人物多角度、A-Pose 和手部设计参考](docs/images/character-reference.jpg)
+
+</details>
+
 ## 快速启动（Windows）
 
 安装 Python 3.12、Git 和 Git LFS 后：
@@ -68,4 +111,4 @@ python tools/verify_asset_manifest.py
 
 Node.js 仅用于数学回归测试，不是启动必需；PHP 测试缺少 PHP 时会跳过对应项目。
 
-[架构与接口](docs/DEVELOPMENT.md) · [资产维护](docs/ASSETS.md) · [第三方来源](THIRD_PARTY_NOTICES.md) · [敏感配置](SECURITY.md)。历史调查保留于 integrations/polyv/，当前运行方式以本文与 docs/ 为准。
+[架构与接口](docs/DEVELOPMENT.md) · [资产维护](docs/ASSETS.md) · [第三方来源](THIRD_PARTY_NOTICES.md) · [敏感配置](SECURITY.md) · [私有仓库访问](docs/COLLABORATION.md)。历史调查保留于 integrations/polyv/，当前运行方式以本文与 docs/ 为准。

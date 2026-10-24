@@ -1,0 +1,66 @@
+{
+  "source": "用户提供的《“指尖有声”手语直播数字人-项目讲解》PPTX",
+  "notes": "仅提取并缩放指定图片；不改变图像内容。历史运行截图不保证与当前代码版本完全一致。设计参考不是实时3D渲染结果。",
+  "files": [
+    {
+      "file": "live-composition.jpg",
+      "source_media": "image3.png",
+      "description": "保利威客户端直播画面叠加",
+      "width": 1600,
+      "height": 958,
+      "bytes": 190468,
+      "sha256": "942b03eba996d703ec0aebc17efe0243836fbaf11b82694c0370fa15c377c3da",
+      "slides": [
+        2
+      ]
+    },
+    {
+      "file": "console-realistic.png",
+      "source_media": "image25.png",
+      "description": "写实人物控制台演示",
+      "width": 1600,
+      "height": 1004,
+      "bytes": 607323,
+      "sha256": "e64eecd093051bc92e1664291f64789999f7537a2f1120fa0e69194c58541bec",
+      "slides": [
+        17
+      ]
+    },
+    {
+      "file": "console-anime.png",
+      "source_media": "image26.png",
+      "description": "动漫人物控制台演示",
+      "width": 1600,
+      "height": 1000,
+      "bytes": 600774,
+      "sha256": "b1c77f209c4942791dc34cf15efc9e5e198cbab15f45aeb0ea2fc39578dc01f2",
+      "slides": [
+        18
+      ]
+    },
+    {
+      "file": "model-preview.jpg",
+      "source_media": "image17.png",
+      "description": "人物模型正面预览",
+      "width": 1600,
+      "height": 1011,
+      "bytes": 102220,
+      "sha256": "f1b3293d7808438ba47e3af23a93b365187ebf5b1cf6c98192953dd6d899661f",
+      "slides": [
+        13
+      ]
+    },
+    {
+      "file": "character-reference.jpg",
+      "source_media": "image12.png",
+      "description": "人物设计参考，多角度和 A-Pose",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 292122,
+      "sha256": "df435460bd507e1bf400eb02c58cca2055cf5bc1a59befa3f2e10c5758e4cf98",
+      "slides": [
+        10
+      ]
+    }
+  ]
+}
