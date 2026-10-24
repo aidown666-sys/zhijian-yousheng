@@ -1,5 +1,7 @@
 # 指尖有声 · 手语直播数字人
 
+无声世界，指尖有声。结合保利威直播、实时字幕和 3D 手语数字人的 demo 项目，希望让听障人士有更多了解世界的机会。
+
 本地 3D 骨骼数字人实验项目：接收输入文本或保利威直播字幕，检索手语动作并驱动人物，再由 OBS 或保利威客户端采集输出窗口。运行无需 PyTorch、CUDA 或云端照片渲染。
 
 ## 快速启动（Windows）
@@ -8,7 +10,7 @@
 
 ```powershell
 git lfs install
-git clone <本私有仓库地址>
+git clone https://github.com/aidown666-sys/zhijian-yousheng.git
 cd zhijian-yousheng
 git lfs pull
 powershell -NoProfile -ExecutionPolicy Bypass -File .\setup.ps1
