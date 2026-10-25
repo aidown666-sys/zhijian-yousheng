@@ -13,6 +13,15 @@ __pycache__/
 .env
 .env.*
 !.env.example
+*.zip
+*.7z
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+secrets*.json
+config.local.*
 Thumbs.db
 .DS_Store
 /PROJECT_PREFERENCES.md
